@@ -1,0 +1,1 @@
+# pharo-workbench-baseline
